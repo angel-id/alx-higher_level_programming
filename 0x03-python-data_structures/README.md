@@ -1,1 +1,1 @@
-Data structures: lists, tuples
+Data structures, lists, tuples
