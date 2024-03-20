@@ -2,4 +2,4 @@
 
 my_list = []
 for x in my_list:
-    print(x)
+    print("{}".format(x))
